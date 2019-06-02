@@ -45,4 +45,9 @@ Basic String Operations
 https://www.learnpython.org/en/Basic_String_Operations
 
  
+ Dictionaries: A dictionary is a data type similar to arrays, but works with keys and values instead of indexes. Each value stored in a dictionary can be accessed using a key, which is any type of object (a string, a number, a list, etc.) instead of using its index to address it. 
+ https://www.learnpython.org/en/Dictionaries
+ 
+ 
+ 
  
